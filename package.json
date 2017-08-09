@@ -1,0 +1,35 @@
+{
+  "name": "text-cornucopia-cli",
+  "version": "1.0.0",
+  "description": "cli for text cornucopia tool https://hsalmeida.github.io/text-cornucopia/",
+  "bin": {
+    "cornucopia": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsalmeida/text-cornucopia-cli.git"
+  },
+  "keywords": [
+    "cornucopia"
+  ],
+  "author": "hsalmeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsalmeida/text-cornucopia-cli/issues"
+  },
+  "homepage": "https://github.com/hsalmeida/text-cornucopia-cli#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "clear": "0.0.1",
+    "clui": "^0.3.6",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.2.1",
+    "lodash": "^4.17.4",
+    "properties-reader": "0.0.15",
+    "redis": "^2.8.0"
+  }
+}

@@ -1,2 +1,2 @@
 # text-cornucopia-cli
-cli for text cornucopia tool https://hsalmeida.github.io/text-cornucopia/
+cli from text cornucopia tool https://hsalmeida.github.io/text-cornucopia/
