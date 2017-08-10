@@ -1,6 +1,6 @@
 {
   "name": "text-cornucopia-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "cli for text cornucopia tool https://hsalmeida.github.io/text-cornucopia/",
   "bin": {
     "cornucopia": "./index.js"
