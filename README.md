@@ -105,12 +105,22 @@ in 1924 the nobel prize of Physics goes to Manne Siegbahn, Chemistry for None, M
 
 You can output to csv and txt at the same time, using diferent patterns, just write `out.pattern` above `[txt]` and `[csv]` keys
 
-## Usage
+### Limitations
 
+Yout can use only 9 keys in patterns, from $0 to $9.
+
+## Usage
 
 ```console
 $ cornucopia
 ```
+
+## Coming Soon
+
+- elasticsearch
+- dynamic detection
+- more smart CLI
+- remove limitations of pattern keys
 
 ## Maintainers
 
