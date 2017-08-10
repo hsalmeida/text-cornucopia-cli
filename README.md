@@ -83,9 +83,10 @@ Example:
 megaList.txt
 ```
 1921,Albert Einstein,Frederick Soddy,None,Anatole France,Hjalmar Branting;Christian Lous Lange
-1922,Niels Bohr	Francis William Aston,Archibald Hill;Otto Fritz Meyerhof,Jacinto Benavente,Fridtjof Nansen
+1922,Niels Bohr,Francis William Aston,Archibald Hill;Otto Fritz Meyerhof,Jacinto Benavente,Fridtjof Nansen
 1923,Robert Andrews Millikan,Fritz Pregl,Frederick Banting;John James Rickard Macleod,W. B. Yeats,None
 1924,Manne Siegbahn,None,Willem Einthoven,Władysław Reymont,None
+
 ```
 
 the `out.pattern` can be 
